@@ -30,6 +30,7 @@ Swal.fire({
 
     <p style="font-size: 17px; font-weight: bold; font-family: Arial">Sir Nuel ganteng banget sampe bikin aku muntah 🤮</p>
 
+<p style="font size 12px; font-family: Arial">ICT udah gacor Sir</p>
   `,
   confirmButtonText: "Tutup",
   showCloseButton: true,
