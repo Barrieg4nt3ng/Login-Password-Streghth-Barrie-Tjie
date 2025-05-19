@@ -1,8 +1,10 @@
+/*agar memungkinkan kita untuk menyertakan padding dan border dalam lebar dan tinggi total elemen */
 * {
   box-sizing: border-box;
-opacity: 10,
+opacity: 10, /* transparan 10% */
 }
 
+/*mengedit bagian body agar rapi bentuk dan posisinya*/
 body {
   display: flex;
   flex-direction: column;
@@ -14,7 +16,7 @@ body {
   
 
 }
-
+/*mengedit bagian background (gambar, posisi, teks)*/
 .background {
   background: url('https://lh3.googleusercontent.com/d/1Yi-BOOtqP4E7lLfQ6Li0HYqyhu_7IAEa=w1000');
   background-size:cover;
@@ -27,7 +29,7 @@ body {
   filter: blur(20px);
 
 }
-
+/* agar bisa transparan dan menyaal neon*/
 .glass-box {
   background-color: rgba(255, 255, 255, 0,2);
   backdrop-filter: blur(50px);
