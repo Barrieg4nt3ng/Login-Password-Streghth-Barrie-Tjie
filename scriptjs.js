@@ -26,7 +26,7 @@ Swal.fire({
   html: `
    <h1 style="font-size: 24px; font-weight: bold; font-family: Italic ;"><i><b>Homo Sine Amore Vivere Nequit</b></i></h1>
 
-   <h2 style="font-size: 18px; "><i>"Seorang Pria Tanpa Cinta Tidak Bisa Hidup"</i></h2>
+   <h2 style="font-size: 18px;font-family: Italic; "><i>"Seorang Pria Tanpa Cinta Tidak Bisa Hidup"</i></h2>
 
     <h3 style="font-size: 18px; font-weight: bold; font-family: Arial">Sir Nuel ganteng banget sampe bikin aku muntah 🤮</h3>
     <h4 style="font-size: 18px; font-family: Arial"> ICT udah gacor kok Sir</h4>
