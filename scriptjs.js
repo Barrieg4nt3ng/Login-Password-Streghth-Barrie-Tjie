@@ -15,7 +15,7 @@ background.style.filter=`blur(${blurValue}px)`;
 })
 
 Swal.fire({
-  imageUrl: "file:///C:/Users/DAVID/Downloads/20250505_223119.jpg",
+  imageUrl: "https://lh3.googleusercontent.com/d/1W1kdo0_aNvP4HWHkPOP9OglhS5ZdKnqJ=w1000",
   imageAlt: "muka barrie",
   imageWidth: 300,
   imageHeight: 258,
