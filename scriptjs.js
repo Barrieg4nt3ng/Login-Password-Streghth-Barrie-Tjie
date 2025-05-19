@@ -1,4 +1,6 @@
+
 // - link video tutorial: https://youtu.be/8YoTHyUyZJs?si=UJ4PITEoapBdntHC - //
+// - untuk supaya fitur password stregth nya dapat berjalan (saat password semakin panjang, ngeblurnya akan hilang) - //
 const password = document.getElementById('password');
 const background = document.getElementById('background');
 
@@ -13,7 +15,7 @@ background.style.filter=`blur(${blurValue}px)`;
 
 
 })
-
+// - untuk menampilkan pop up pembuka yang berisi gambar dan kata kata- //
 Swal.fire({
   imageUrl: "https://lh3.googleusercontent.com/d/1W1kdo0_aNvP4HWHkPOP9OglhS5ZdKnqJ=w1000",
   imageAlt: "muka barrie",
