@@ -1,5 +1,6 @@
 * {
   box-sizing: border-box;
+opacity: 10%,
 }
 
 body {
@@ -10,6 +11,8 @@ body {
   height: 100vh;
   overflow: hidden;
   margin: 0;
+  
+  
 }
 
 .background {
@@ -22,5 +25,13 @@ body {
   right: -20px;
   z-index: -1;
   filter: blur(20px);
+
+}
+
+.glass-box {
+  background-color: rgba(255, 255, 255, 0,2);
+  backdrop-filter: blur(50px);
+  border: 1px solid (255, 255, 255, 0.3);
+  box-shadow: 0 4px 30px rgba(225, 217, 217, 0.982);
 }
     
