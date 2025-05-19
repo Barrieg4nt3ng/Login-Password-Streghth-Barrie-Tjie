@@ -29,8 +29,7 @@ Swal.fire({
    <h2 style="font-size: 18px; "><i>"Seorang Pria Tanpa Cinta Tidak Bisa Hidup"</i></h2>
 
     <h3 style="font-size: 17px; font-weight: bold; font-family: Arial">Sir Nuel ganteng banget sampe bikin aku muntah 🤮</h3>
-
-<p style="font size 6px; font-family: Arial">ICT udah gacor Sir</p>
+    <p style="font size: 6px; font-family: Arial">ICT udah gacor Sir</p>
   `,
   confirmButtonText: "Tutup",
   showCloseButton: true,
